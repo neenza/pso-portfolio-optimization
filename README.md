@@ -1,13 +1,6 @@
 # Portfolio Optimization
 
-A Python-based portfolio optimization tool that implements both traditional Modern Portfolio Theory (MPT) and Particle Swarm Optimization (PSO) approaches.
-
-## Features
-- Modern Portfolio Theory implementation
-- Particle Swarm Optimization for portfolio weights
-- Multiple optimization objectives (Sharpe ratio, minimum risk, maximum return, etc.)
-- Comprehensive visualization tools
-- Backtesting capabilities
+A Python-based portfolio optimization tool that implements Particle Swarm Optimization (PSO) approach.
 
 ## Installation
 ```bash
