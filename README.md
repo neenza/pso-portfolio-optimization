@@ -4,9 +4,10 @@ A Python-based portfolio optimization tool that implements Particle Swarm Optimi
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/portfolio-optimization.git
+git clone https://github.com/neenza/portfolio-optimization.git
 cd portfolio-optimization
 pip install -r requirements.txt
+```
 
 ## Usage
 python main.py --data_dir "5m" --n_stocks 30 --risk_free_rate 0.02 --objective sharpe
